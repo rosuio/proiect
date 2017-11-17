@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=mesaj
+comment1.params=fraza
+comment1.target=void\ logareUserName(java.lang.String)
+comment2.params=fraza
+comment2.target=void\ logareEmail(java.lang.String)
+comment3.params=fraza
+comment3.target=java.lang.String\ IntroducereDate(java.lang.String)
+comment4.params=DateIntroduse
+comment4.target=java.util.Vector\ DesparteFraza(java.lang.String)
+comment5.params=cuvinteProp
+comment5.target=java.lang.String\ citireFisier(java.util.Vector)
+comment6.params=linie
+comment6.target=java.lang.String\ cautaAniDomnie(java.lang.String)
+comment7.params=linie
+comment7.target=java.lang.String\ cautaAniLupta(java.lang.String)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
